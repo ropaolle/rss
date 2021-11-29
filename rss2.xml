@@ -6,7 +6,7 @@
         <itunes:owner>
             <itunes:email>ropaolle@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:author>RopaOlle</itunes:author>
+        <itunes:author>IFarFar</itunes:author>
         <description>Meditate...</description>
         <itunes:image href="https://ropaolle.github.io/rss/cover/cover.png" />
         <itunes:category text="Health"></itunes:category>
@@ -18,7 +18,7 @@
             <pubDate>Thu, 21 Nov 2021 16:01:07 +0000</pubDate>
             <enclosure url="https://ropaolle.github.io/rss/mp3/medito-will-10m.mp3" type="audio/mpeg" length="9627322"/>
             <itunes:duration>10:01</itunes:duration>
-            <guid isPermaLink="true">ropaolle0001</guid>
+            <guid isPermaLink="true">IFarFar0001</guid>
             <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
