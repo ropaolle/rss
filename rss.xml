@@ -6,9 +6,10 @@
         <itunes:owner>
             <itunes:email>ropaolle@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:author>RopaOlles</itunes:author>
+        <itunes:author>RopaOlle</itunes:author>
         <description>Meditate...</description>
         <itunes:image href="https://ropaolle.github.io/rss/cover/cover.png" />
+        <itunes:category> - Example: <itunes:category text="Health"/>
         <language>en-us</language>
         <link>https://ropaolle.github.io/rss/</link>
         <item>
