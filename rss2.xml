@@ -9,7 +9,7 @@
         <itunes:author>RopaOlle</itunes:author>
         <description>Meditate...</description>
         <itunes:image href="https://ropaolle.github.io/rss/cover/cover.png" />
-        <itunes:category> - Example: <itunes:category text="Health"/>
+        <itunes:category text="Health"></itunes:category>
         <language>en-us</language>
         <link>https://ropaolle.github.io/rss/</link>
         <item>
