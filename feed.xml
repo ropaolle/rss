@@ -46,17 +46,17 @@ EPISODE DESCRIPTION
 EPISODE DESCRIPTION
 ]]>
             </description>
-            <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg" />
-            <enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg" />
-            <itunes:duration>DURATION</itunes:duration>
-            <itunes:season>SEASON #</itunes:season>
-            <itunes:episode>EPISODE #</itunes:episode>
+            <!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg" /> -->
+            <enclosure url="https://thisyearweconquer.github.io/mp3s/JUST_GET_IT_DONE_-_Powerful_Motivational_Speech_2019___Jocko_Willink.mp3" length="4259493" type="audio/mpeg" />
+            <itunes:duration>202.656</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <guid isPermaLink="false">
-https://LOCATION OF MP3.MP3
+https://thisyearweconquer.github.io/mp3s/JUST_GET_IT_DONE_-_Powerful_Motivational_Speech_2019___Jocko_Willink.mp3
             </guid>
-            <pubDate>EPISODE PUBLISH DATE</pubDate>
-            <itunes:explicit>YES/NO</itunes:explicit>
+            <pubDate>Sat Nov 14 20:18:47 2020</pubDate>
+            <itunes:explicit>yes</itunes:explicit>
         </item>
 
     </channel>
