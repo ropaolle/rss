@@ -58,7 +58,6 @@ https://LOCATION OF MP3.MP3
             <pubDate>EPISODE PUBLISH DATE</pubDate>
             <itunes:explicit>YES/NO</itunes:explicit>
         </item>
-        ... REPEAT
-        <item> for each episode ...
-        </channel>
-    </rss>
+
+    </channel>
+</rss>
