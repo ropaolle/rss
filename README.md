@@ -11,3 +11,7 @@
 - [Feed template](https://2021.jackbarber.co.uk/blog/2017-02-14-podcast-rss-feed-template)
 - [Feed validator](https://castfeedvalidator.com)
 - [Feed validator 2](https://validator.w3.org/feed)
+
+## Meditate with Me
+
+![Meditate with Me](./cover/cover.png)
