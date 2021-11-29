@@ -5,9 +5,9 @@
     xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
     <channel>
         <title>PODCAST TITLE</title>
-        <link>https://PODCAST URL.com/</link>
+        <link>https://ropaolle.github.io/</link>
         <language>en-us</language>
-        <atom:link href="https://PODCAST URL.com/feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ropaolle.github.io/rss/feed.xml" rel="self" type="application/rss+xml" />
         <copyright>PODCAST CREATOR</copyright>
         <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
         <itunes:author>PODCAST CREATOR</itunes:author>
@@ -24,7 +24,7 @@ PODCAST DESCRIPTION
             <itunes:name>PODCAST CREATOR</itunes:name>
             <itunes:email>PODCAST CREATOR@EMAIL.COM</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://PODCAST IMAGE.jpg" />
+        <itunes:image href="https://thisyearweconquer.github.io/logo.jpg" />
         <itunes:category text="CATEGORY1"></itunes:category>
         <itunes:category text="CATEGORY2"></itunes:category>
         <itunes:category text="CATEGORY3"></itunes:category>
