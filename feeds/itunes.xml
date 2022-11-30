@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" version="2.0">
+    <channel>
+        <title>RopaOlle</title>
+        <link>https://ropaolle.github.io/rss</link>
+        <language>en-us</language>
+        <copyright>RopaOlle &#169; 2021 </copyright>
+        <itunes:subtitle>Meditera mera ...</itunes:subtitle>
+        <itunes:author>RopaOlle</itunes:author>
+        <itunes:summary>Meditera på Google Nest Mini</itunes:summary>
+        <itunes:keywords>Meditera, Google, Nest, Mini</itunes:keywords>
+        <description>Meditera med Google Nest Mini</description>
+        <itunes:owner>
+            <itunes:name>RopaOlle</itunes:name>
+            <itunes:email>ropaolle@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://ropaolle.github.io/docker2021/rss/cover/ropaolle-rss-01.png" />
+        <itunes:category text="Health &amp; Fitness"></itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+
+        <item>
+            <title>Will 10 min</title>
+            <itunes:title>Will 10 min</itunes:title>
+            <itunes:author>RopaOlle</itunes:author>
+            <itunes:subtitle>Meditera mera ...</itunes:subtitle>
+            <itunes:summary><![CDATA[Min första test 1]]></itunes:summary>
+            <description><![CDATA[Min första test 2]]></description>
+            <!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg" /> -->
+            <link>https://ropaolle.github.io/docker2021/rss</link>
+            <enclosure url="https://ropaolle.github.io/docker2021/rss/mp3/medito-will-10m.mp3" length="9627322" type="audio/mpeg" />
+            <itunes:duration>10:01</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid isPermaLink="false">https://ropaolle.github.io/docker2021/rss/mp3/medito-will-10m.mp3</guid>
+            <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>
